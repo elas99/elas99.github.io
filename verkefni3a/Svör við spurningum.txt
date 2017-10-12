@@ -1,0 +1,10 @@
+Spurning 1.
+1)WebGL stendur fyrir Web Graphics library, og er viðmótsforritun fyrir þrívíddar og tvíviddar forritun.
+2)GPU stendur fyrir graphics processing unit, og er tölvubúnaður sem er settur í tölvur til þess að runna graphics.
+3)Resterisation er notað til að rendera og sýna 3D Models. Það sem það gerir er að breyta vector graphics yfir í raster images
+4)GLSL er OpenGL Shading Language, og er notað til þess að skyggja.
+5)Vertex, er punktur þar sem línur og horn hittast
+6)Primitive er data type, skrifar út graphics output eins og línur hringi eða texta.
+7)Fragment, eru gögn sem eru notuð til þess að búa til pixel.
+8)Pixel er lítill punktur í mynd, Því meiri pixlar sem eru því betri gæði verða myndirnar, pixel eru litlir kassar sem sjást ef þú zoomar inn á myndir 
+9)
