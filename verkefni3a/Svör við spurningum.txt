@@ -11,3 +11,17 @@ Spurning 1.
 10)View frustum er staðurinn sem modelið sem þú varst að gera sést, FOV(field of view)
 11)Z buffering, eða depth buffering. Sér um hvaða elements eru sjáanleg og hvað sést ekki
 12)Right handed coordination system, þetta er sett sem default coordination í OpenGL, Það er X og Y hnit, og svo Z hnit sem fer þvert yfir það
+
+
+
+Spurnig 2.
+3D models eru búin til úr punktum sem eru kallaðir vertices sem búa svo til Polygons, polygon er svæði þar sem er að minnsta kosti thrjú vertex og polygon er eins og þríhyrningur.
+
+
+Spurning 3.
+Það eru nokkur skref sem rendering pipeline fer í gegn. Fyrst kemur undirbúningur fyrir vertex data og sýnir það, næst kemur vertex proccessing, þegar vertex processing klárast verður næsta skrefið Vertex post-processing, 4 skrefið er svo Primitive assembly, 5 skrefið scannar paramater interpolation sem býr til Fragments. 6 skrefið er meðhöndlar hvert fragment og koma út nokkrir outputs frá hverjum fragment. Síðast kemur Per-Sample_proccessing
+
+
+(src: https://www.khronos.org/opengl/wiki/Rendering_Pipeline_Overview )     
+
+
