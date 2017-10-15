@@ -7,4 +7,7 @@ Spurning 1.
 6)Primitive er data type, skrifar út graphics output eins og línur hringi eða texta.
 7)Fragment, eru gögn sem eru notuð til þess að búa til pixel.
 8)Pixel er lítill punktur í mynd, Því meiri pixlar sem eru því betri gæði verða myndirnar, pixel eru litlir kassar sem sjást ef þú zoomar inn á myndir 
-9)
+9)Clip space er eitt af því sem transformations fara yfir, það er til model space, world space, camera space, clipspace og screen space.
+10)View frustum er staðurinn sem modelið sem þú varst að gera sést, FOV(field of view)
+11)Z buffering, eða depth buffering. Sér um hvaða elements eru sjáanleg og hvað sést ekki
+12)Right handed coordination system, þetta er sett sem default coordination í OpenGL, Það er X og Y hnit, og svo Z hnit sem fer þvert yfir það
