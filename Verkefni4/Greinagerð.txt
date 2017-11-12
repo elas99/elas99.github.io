@@ -1,0 +1,7 @@
+1. UI og UX Greinagerð
+UX stendur fyrir User Experiance Design og UI stendur fyrir User Interface Design.
+Bæði eru notuð til þess að búa til hluti sem notandanum finnst þægilegt að nota.
+UI er meira um útlit og hvernig síðan/verkefnið hlýtur út, t.d. CSS
+En UX er notað til þess að gera hlutina þægilegri fyrir notanda, gera það léttara fyrir hann að nota síðuna og læra á hana fljótar. t.d. JS.
+UI er fyrsta skrefið til þess að notandinn myndi vilja nota síðuna þína, ef hún hlýtur ekki vel út mun hann líklega ekki vilja nota hana, hérna er oft notað flott animations, góða litaþemu eða vel gerð menus
+UX er svo mikilvægt þannig að notandinn myndi ekki hætta að nota síðuna með því að hafa hluti sem aðrar síður hafa ekki eða hafa hluti gerða léttar, hlutir eins og til dæmis að geta prófa marga hluti á síðu án þess að þurfa að refreash'a.
