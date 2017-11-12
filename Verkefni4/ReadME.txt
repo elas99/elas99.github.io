@@ -1,14 +1,15 @@
 Verkefni 4.
 Elas og Hilmar
 
-Í şessu verkefni notuğum viğ Cognitive Face API hérna https://azure.microsoft.com/en-us/try/cognitive-services/
-í link.js er kóği frá Face API'inu sem sér um ağ şú gætir notağ direct link til ağ fá image.
-Link.js er meğ AnalyzeLink function,
-şar er búiğ til sourceimageurl breytu sem er notuğ til ağ byrta myndina, í ajax breytuni er svo fengiğ urliğ og sett şağ í data til şess ağ geta fengiğ upplısingarnar um myndina
-Showlinkedimage er function til şess ağ byrta myndina sem er notuğ saman meğ sourceImageUrl
+Ã Ã¾essu verkefni notuÃ°um viÃ° Cognitive Face API hÃ©rna https://azure.microsoft.com/en-us/try/cognitive-services/
+Ã­ link.js er kÃ³Ã°i frÃ¡ Face API'inu sem sÃ©r um aÃ° Ã¾Ãº gÃ¦tir notaÃ° direct link til aÃ° fÃ¡ image.
+Link.js er meÃ° AnalyzeLink function,
+Ã¾ar er bÃºiÃ° til sourceimageurl breytu sem er notuÃ° til aÃ° byrta myndina, Ã­ ajax breytuni er svo fengiÃ° urliÃ° og sett Ã¾aÃ° Ã­ data til Ã¾ess aÃ° geta fengiÃ° upplÃ½singarnar um myndina
+Showlinkedimage er function til Ã¾ess aÃ° byrta myndina sem er notuÃ° saman meÃ° sourceImageUrl
 
-Í upload.js er kóği til şess ağ ná ağ nota images sem userinn uploadar sjálfur frá tölvuni sinni.
-Upload.js er mjög svipağ link.js fyrir utan ağ í şví er tekiğ inn data öğruvísi şví şağ er ekki lengur link.
+Ã upload.js er kÃ³Ã°i til Ã¾ess aÃ° nÃ¡ aÃ° nota images sem userinn uploadar sjÃ¡lfur frÃ¡ tÃ¶lvuni sinni.
+Upload.js er mjÃ¶g svipaÃ° link.js fyrir utan aÃ° Ã­ Ã¾vÃ­ er tekiÃ° inn data Ã¶Ã°ruvÃ­si Ã¾vÃ­ Ã¾aÃ° er ekki lengur link.
 
+ViÃ° Ã¦tluÃ°um lÃ­ka aÃ° lÃ¡ta Ã¾aÃ° vera hÃ¦gt aÃ° taka mynd og analyza hana en Ã¾aÃ° virkaÃ°i ekki hjÃ¡ okkur.
 
 
