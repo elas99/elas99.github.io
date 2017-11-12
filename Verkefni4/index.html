@@ -1,0 +1,50 @@
+<html>
+
+<head>
+    <title>Verkefni 4</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="imageDiv">
+            <canvas id="myCanvas">
+            </canvas>
+            <textarea id="responseTextArea" class="UIInput"></textarea>
+        </div>
+        <div class="upload">
+            <label for="filename" class="btn">Upload an image</label>
+            <input type="file" id="filename" name="filename" accept="image/*" style="display:none">
+        </div>
+        <div>
+            <input type="text" name="inputImage" id="inputImage" placeholder="Settu inn Link af Mynd" onChange="AnalyzeLink()"/>
+        </div>
+    </div>
+    <div class="container">
+
+        <div class="app">
+
+            <a href="#" id="start-camera" class="visible">Touch here to start the app.</a>
+            <video id="camera-stream"></video>
+            <img id="snap">
+
+            <p id="error-message"></p>
+
+            <div class="controls">
+                <a href="#" id="delete-photo" title="Delete Photo" class="disabled"><i class="material-icons">delete</i></a>
+                <a href="#" id="take-photo" title="Take Photo"><i class="material-icons">camera_alt</i></a>
+                <a href="#" id="download-photo" download="selfie.png" title="Save Photo" class="disabled"><i class="material-icons">file_download</i></a>
+            </div>
+
+            <!-- Hidden canvas element. Used for taking snapshot of video. -->
+            <canvas></canvas>
+
+        </div>
+    </div>
+    <script src="jquery-3.2.1.min.js"></script>
+        <script src="link.js" charset="utf-8"></script>
+        <script src="upload.js" charset="utf-8"></script>
+        <script src="camera.js" charset="utf-8"></script>
+</body>
+
+</html>
