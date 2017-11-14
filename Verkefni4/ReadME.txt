@@ -10,6 +10,6 @@ Showlinkedimage er function til þess að byrta myndina sem er notuð saman með
 Í upload.js er kóði til þess að ná að nota images sem userinn uploadar sjálfur frá tölvuni sinni.
 Upload.js er mjög svipað link.js fyrir utan að í því er tekið inn data öðruvísi því það er ekki lengur link.
 
-Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði ekki hjá okkur.
+Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði að taka hana bara ekki analyza
 
 
