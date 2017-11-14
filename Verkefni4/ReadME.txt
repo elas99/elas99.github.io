@@ -13,3 +13,4 @@ Upload.js er mjög svipað link.js fyrir utan að í því er tekið inn data ö
 Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði ekki að analyza
 
 
+https://elas99.github.io/Verkefni4/
