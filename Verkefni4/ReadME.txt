@@ -12,5 +12,9 @@ Upload.js er mjög svipað link.js fyrir utan að í því er tekið inn data ö
 
 Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði ekki að analyza því myndavélin tekur myndir í base64 file type en azure face apin þarf að fá myndina í binary.
 
+Notkun
+Það er hægt að annað hvort nota mynd sem þú ert með í tölvuni með upload takkanum, eða taka direct link af einhverjari mynd á netinu með
+því að hægri smella og gera copy image url.
+Ef þú villt nota slóð, setiru hana bara í línuna og ýtir á enter
 
 https://elas99.github.io/Verkefni4/
