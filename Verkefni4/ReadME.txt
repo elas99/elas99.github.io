@@ -10,7 +10,7 @@ Showlinkedimage er function til þess að byrta myndina sem er notuð saman með
 Í upload.js er kóði til þess að ná að nota images sem userinn uploadar sjálfur frá tölvuni sinni.
 Upload.js er mjög svipað link.js fyrir utan að í því er tekið inn data öðruvísi því það er ekki lengur link.
 
-Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði ekki að analyza
+Við ætluðum líka að láta það vera hægt að taka mynd og analyza hana en það virkaði ekki að analyza því myndavélin tekur myndir í base64 file type en azure face apin þarf að fá myndina í binary.
 
 
 https://elas99.github.io/Verkefni4/
