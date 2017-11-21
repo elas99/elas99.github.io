@@ -22,7 +22,8 @@ Ef þú villt nota slóð, setiru hana bara í línuna og ýtir á enter
 
 Það sem virkaði ekki
 Við gerðum uploadið fyrst þannig að það tók svolítin tíma því við vorum enn að reyna að fatta hvernig þetta virkaði.
-Það tók stuttan tíma að gera link javascriptið því það voru meiri gögn um það á netinu og því við vorum aðeins búnir að fatta hvernig þetta virkaði.
+Það tók stuttan tíma að gera link javascriptið því það voru meiri gögn um það á netinu,
+og því við vorum aðeins búnir að fatta hvernig þetta virkaði.
 Flestur tíminn fór í það að taka mynd og analyza hana því við föttuðum ekki hvernig maður ætti að breyta úr base64 yfir í binary.
 
 https://elas99.github.io/Verkefni4/
